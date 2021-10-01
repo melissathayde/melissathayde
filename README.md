@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melissathayde , enfermeira, graduanda em Análise e Desenvolvimento de Sistemas.
+- 👋 Hi, I’m @melissathayde , enfermeira e graduanda em Análise e Desenvolvimento de Sistemas.
 - 📫 Recife, PE.
 
 <!---
