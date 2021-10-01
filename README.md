@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @melissathayde , enfermeira e estudante de Análise e Desenvolvimento de Sistemas.
+- 👋 Hi, I’m @melissathayde ,  enfermeira de formação.
+- Estudante de  Análise e Desenvolvimento de Sistemas  <3
 - 📫 Recife, PE.
 
 <!---
