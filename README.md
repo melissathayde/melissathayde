@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melissathayde , enfermeira, tenho interesse em mudar de área e me lancei nesse novo desafio!
+- 👋 Hi, I’m @melissathayde , enfermeira, graduanda em Análise e Desenvolvimento de Sistemas.
 - 📫 Recife, PE.
 
 <!---
